@@ -1,0 +1,59 @@
+.cke_chrome, .cke{
+    border: none!important; 
+ }
+
+.cke_top{
+    border:1px dashed rgb(215,215,215)!important;
+    white-space: normal; 
+    box-shadow: none!important; 
+    background: none!important; 
+    background-image: none!important;
+    border-radius: 5px!important;
+}
+.cke_contents iframe{
+    border-left:1px dashed rgb(215,215,215)!important;
+    border-right:1px dashed rgb(215,215,215)!important;
+    border-bottom:1px dashed rgb(215,215,215)!important;
+    border-left:1px dashed rgb(215,215,215)!important;
+    margin-top: 20px!important;
+    border-radius: 5px!important;
+    border-top-right-radius: 5px!important;
+    border-top-left-radius: 5px!important;
+    border-bottom-right-radius: 5px!important;
+    border-bottom-left-radius: 5px!important;
+    -webkit-box-shadow: 4px 4px 13px 0px rgba(0,0,0,0.4)!important;
+    -moz-box-shadow: 4px 4px 13px 0px rgba(0,0,0,0.4)!important;
+    box-shadow: 4px 4px 13px 0px rgba(0,0,0,0.4)!important;
+}
+
+.cke_bottom{
+    padding-top:25px!important;
+    background-image: none!important;
+    background: #fff!important; 
+    border-bottom: 1px solid rgb(215,215,215)!important;
+}
+.cke_combo_button{
+    border:1px solid rgb(215,215,215)!important;
+     background-image: none!important;
+     background: #fff!important;
+}
+.cke_button{
+    background: white!important;
+    filter: none!important;
+
+}
+.cke_button:focus{
+    -webkit-box-shadow: inset 2px 2px 2px -2px rgba(215,215,215,1)!important;
+    -moz-box-shadow: inset 2px 2px 2px -2px rgba(215,215,215,1)!important;
+    box-shadow: inset 2px 2px 2px -2px rgba(215,215,215,1)!important;
+}
+
+.cke_toolgroup {
+    border:1px solid rgb(215,215,215)!important;
+    border-bottom-color: 1px solid rgb(207,0,12)!important;
+    border-radius: 3px;
+    box-shadow: none!important; 
+    background: #eee;
+    background-image: none!important; 
+    filter: none!important;
+}
